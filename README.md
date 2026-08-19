@@ -19,7 +19,7 @@ Drawing from 25 years of mission-critical systems architecture (Con Edison, Dell
 - **Cloud-Agnostic Design:** Fully containerized via Docker to support seamless deployment across Azure, Oracle Cloud (OCI), or on-premise hardware.
 
 ## Why "The 24"?
-The name is a nod to a legacy systems-programming milestone: achieving a cinematic 24 FPS rendering engine using Borland C++ and TASM in a resource-constrained 1990s environment. This project remasters that low-level optimization mindset for the modern distributed stack.
+as in 24 FPS which is good enough movie framerate back in the day... 
 
 ## Getting Started
 
